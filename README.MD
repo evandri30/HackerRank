@@ -7,7 +7,6 @@ Kumpulan solusi soal-soal [HackerRank](https://www.hackerrank.com/).
 ```
 .
 ├── Easy/
-│   ├── solve-me-first.py
 │   └── ...
 ├── Medium/
 │   ├── ...
