@@ -1,6 +1,6 @@
 # HackerRank Solutions
 
-Kumpulan solusi soal-soal [HackerRank](https://www.hackerrank.com/) dalam bahasa python.
+Kumpulan solusi soal-soal [HackerRank](https://www.hackerrank.com/).
 
 ## 📁 Struktur Folder
 
