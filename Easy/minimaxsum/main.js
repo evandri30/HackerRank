@@ -19,7 +19,7 @@ const minimaxsum = (arr) => {
         if (arr[i] > max) max = arr[i]
     }
 
-    return [sum - max, sum - min]
+    console.log((sum - max) + " " + (sum - min))    
 }
 
-console.log(minimaxsum(arr))
+minimaxsum(arr)
