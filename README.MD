@@ -21,6 +21,7 @@ Setiap folder berisi solusi yang dikelompokkan berdasarkan tingkat kesulitan soa
 
 ```bash
 python3 nama_file.py
+node nama_file.js
 ```
 
 ## 📌 Catatan
